@@ -1,5 +1,3 @@
-/*![banner](readme_images/banner.png)*/
-
 # Earth Hero
 오락실에서 흔히 볼 수 있는 슈팅게임을 횡스크롤로 만들어 보았습니다.
 
